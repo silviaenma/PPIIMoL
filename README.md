@@ -48,4 +48,9 @@ Desarrollado por **Silvia Enma Rodríguez Fernández** como parte del Trabajo de
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Eres libre de utilizar, modificar y redistribuir el código, siempre que mantengas esta nota de licencia y cites el repositorio si lo usas en proyectos académicos o científicos.
+Este proyecto está licenciado bajo la **GNU General Public License v3.0 (GPLv3)**.
+
+Esto significa que cualquier persona puede utilizar, estudiar, modificar y redistribuir el código, siempre que las versiones derivadas mantengan la misma licencia. La GPLv3 garantiza que este software y sus futuras adaptaciones permanezcan libres y abiertos, evitando su apropiación privativa.
+
+Este enfoque refuerza el compromiso con la ciencia abierta y con el uso compartido del conocimiento en entornos académicos y científicos.  
+Para más información, puede consultarse el texto completo de la licencia en: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
