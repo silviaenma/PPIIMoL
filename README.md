@@ -95,8 +95,3 @@ ppii_detect()
 📜 License
 This project is licensed under the GNU GPLv3.
 
----
-
-## 🌀 **Sobre el icono de hélice**
-En GitHub no podemos cambiar el **emoji 🧬** por una **hélice PPII personalizada**, pero **sí podemos añadir una imagen** (por ejemplo una captura de PyMOL mostrando una hélice PPII).  
-
