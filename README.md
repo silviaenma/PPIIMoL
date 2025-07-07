@@ -50,9 +50,8 @@ ppii_detect()
 📜 Licencia
 Este proyecto está bajo la licencia GNU GPLv3.
 
-🌐 English
-📖 Description
-PPIIMoL is a Python module designed to integrate with PyMOL for the automatic detection of polyproline II (PPII) helices in proteins. It simplifies structural analysis by identifying characteristic torsional angles (phi and psi) and potential non-canonical hydrogen bonds (Cα-H···O=C).
+🌐 Description (English)
+PPIIMoL is a Python module designed to integrate with PyMOL for the automatic detection of polyproline II (PPII) helices in proteins. This tool simplifies structural analysis by quickly identifying characteristic torsional angles (phi and psi), as well as potential non-canonical hydrogen bonds (Cα-H···O=C).
 
 Developed as part of a Bachelor's Thesis in Computer Engineering in collaboration with the CSIC neuroscience lab.
 
@@ -82,13 +81,15 @@ git clone https://github.com/silviaenma/PPIIMoL.git
 run PPIIMoL/PPIIMoL.py
 
 🧪 Example usage
+python
+Copiar
+Editar
 # Load the module in PyMOL
 run PPIIMoL/PPIIMoL.py
 
 # Detect PPII helices in a PDB file
 load 3bog.pdb
 ppii_detect()
-
 📂 Results are automatically exported in a dated folder.
 
 📜 License
@@ -96,8 +97,9 @@ This project is licensed under the GNU GPLv3.
 
 ---
 
-✅ Este README reemplazaría al actual y aparecería destacado en GitHub.  
-✅ Puedes añadir una **imagen/captura** de PyMOL con tu módulo funcionando para que sea aún más atractivo.  
+## 🌀 **Sobre el icono de hélice**
+En GitHub no podemos cambiar el **emoji 🧬** por una **hélice PPII personalizada**, pero **sí podemos añadir una imagen** (por ejemplo una captura de PyMOL mostrando una hélice PPII).  
 
----
+📸 ¿Quieres que busquemos un **dibujo/emoji o imagen representando hélice PPII** para ponerlo en la cabecera junto al título?  
+👉 Se puede añadir como:  
 
