@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: If you use PPIIMoL, please cite this software and the reference article.
+title: PPIIMoL
+version: 1.1.0
+date-released: 2025-07-19
+authors:
+  - family-names: Rodríguez Fernández
+    given-names: Silvia Enma
+repository-code: https://github.com/silviaenma/PPIIMoL
+license: GPL-3.0-only
+keywords: [PyMOL, polyproline II, PPII helices, protein structure]
+abstract: >
+  PPIIMoL is a Python module for PyMOL that automates the detection of polyproline II (PPII)
+  helices, screens plausible Cα–H···O=C contacts, and provides one-click visualization and CSV export.
+preferred-citation:
+  type: software
+  title: PPIIMoL (Version 1.1)
+  authors:
+    - family-names: Rodríguez Fernández
+      given-names: Silvia Enma
+  repository-code: https://github.com/silviaenma/PPIIMoL
+  license: GPL-3.0-only
+  year: 2025
+references:
+  - type: article
+    title: Architectonic principles of polyproline II helix bundle protein domains
+    authors:
+      - family-names: Segura Rodríguez
+        given-names: Carlos M.
+      - family-names: Laurents
+        given-names: Diego V.
+    journal: Archives of Biochemistry and Biophysics
+    volume: '741'
+    start: '109981'
+    year: 2024
+    doi: 10.1016/j.abb.2024.109981
